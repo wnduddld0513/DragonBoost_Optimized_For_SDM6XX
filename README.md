@@ -2,8 +2,12 @@
 <h1 align="center">DragonBoost Optimized For SDM6XX</h1>
 
 <p>
-DragonBoost is a Magisk Module that increases Qualcomm Snapdragon powered devices up to 75%.
-Forked From (https://github.com/rakarmp/DragonBoost)
+This module is For Android DAP Devices.
+Tested on iBasso DX180
+
+Increase Android DAP's overall Performance. Battery time will be reduced about 40 minutes (this is not a big compared to the speed)
+
+Source Code Forked From https://github.com/rakarmp/DragonBoost
 </p>
 
 ## Compatibility
