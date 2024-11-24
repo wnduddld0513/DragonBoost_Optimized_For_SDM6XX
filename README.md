@@ -16,12 +16,8 @@ Source Code Forked From https://github.com/rakarmp/DragonBoost
 ⛔️ Arm64
 
 ## Installation
-
-- Flash in magisk, require magisk v20.4 or higher
-
-## Changelog
-
-<a href="https://github.com/rakarmp/DragonBoost/blob/master/CHANGELOG.md">Read In Here</a>
+- Root your Device (Using QFIL or etc..)
+- Flash this module zip in magisk app
 
 ## How it works
 
