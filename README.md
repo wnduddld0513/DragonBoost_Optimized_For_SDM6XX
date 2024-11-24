@@ -1,14 +1,15 @@
 
-<h1 align="center">DragonBoost</h1>
+<h1 align="center">DragonBoost Optimized For SDM6XX</h1>
 
 <p>
 DragonBoost is a Magisk Module that increases Qualcomm Snapdragon powered devices up to 75%.
+Forked From (https://github.com/rakarmp/DragonBoost)
 </p>
 
 ## Compatibility
 
-⛔️ Snapdragon only! <br />
-⛔️ Arm & Arm64
+⛔️ Snapdragon 630/636/660/663/665/680/685 Devices only! <br />
+⛔️ Arm64
 
 ## Installation
 
